@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-1st Year Undergraduate at IIT Delhi 🔭 pursuing a Major degree in Electrical Engineering (Power and Automation).🌱</br>
+2nd Year Undergraduate at IIT Delhi 🔭 pursuing a Major degree in Electrical Engineering (Power and Automation).🌱</br>
 
 </br>
 
