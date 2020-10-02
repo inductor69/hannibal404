@@ -4,7 +4,7 @@
 
 </br>
 
-![Pradyumn's github stats](https://github-readme-stats.vercel.app/api?username=hannibal404&show_icons=true)
+![Pradyumn's github stats](https://github-readme-stats.vercel.app/api?username=hannibal404&theme=dark&show_icons=true)
 </br>
 - 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/pradyumn-singh-rahar-5767131a3/)
 <p align="center">
